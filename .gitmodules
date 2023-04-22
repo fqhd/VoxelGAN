@@ -1,0 +1,6 @@
+[submodule "VoxelGenerator/deps/glfw"]
+	path = VoxelGenerator/deps/glfw
+	url = https://www.github.com/glfw/glfw
+[submodule "VoxelGenerator/deps/glm"]
+	path = VoxelGenerator/deps/glm
+	url = https://github.com/g-truc/glm.git
